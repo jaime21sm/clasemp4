@@ -9,6 +9,8 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
         exit(); // Detiene la ejecución del script actual tras la redirección
     }
 }
+
+//aqui inicia el html
 ?>
 
 <!DOCTYPE html>
